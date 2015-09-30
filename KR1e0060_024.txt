@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋本義
-#+DATE: 2015-09-23 09:39:57
-#+PROPERTY: JUAN 24
+#+DATE: 2015-08-24 22:14:57.797405
+#+PROPERTY: ID KR1e0060
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十四
 <pb:KR1e0060_WYG_024-1a>¶
 欽定四庫全書¶
 　春秋本義卷二十四　　　元　程端學　撰¶
@@ -560,4 +562,3 @@
 　權昭公安之而不悟也人君於此可不戒哉¶
 　¶
 　春秋本義卷二十四¶
-
